@@ -14,8 +14,8 @@ Fractals have always captivated me with their infinite complexity and stunning v
 
 This project is implemented using Python and Pygame, making it accessible and easy to run on any system that supports these technologies.
 
-- ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-- ![Pygame](https://img.shields.io/badge/pygame-v2.0.1-blue.svg)
+- ![Python](https://img.shields.io/badge/python-v3.10+-blue.svg)
+- ![Pygame](https://img.shields.io/badge/pygame-v2.0.22-blue.svg)
 
 ## Getting Started
 
