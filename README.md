@@ -3,7 +3,7 @@
 
 Welcome to the 2D Fractal Landscape Generator, a Python-powered tool designed to create mesmerizing fractal mountain landscapes. Developed using the popular Pygame library, this program is perfect for enthusiasts of both graphics programming and fractal geometry.
 
-![Fractal Mountains](images/fractal_mountains_cover.jpg)
+![Fractal Mountains](img/example4.png)
 
 ## About The Project
 
