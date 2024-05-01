@@ -1,7 +1,7 @@
 
 # 2D Fractal Landscape Generator
 
-This program aims to represent a 2D Fractal Landscape made in Python, mesmerizing mountain landscapes, or at list a fraction of it. Developed using Pygame library, this program is inspired in this [website](https://grahamsprojects.blogspot.com/2014/08/creating-2d-fractal-landscape-generator.html). I didn't find the source code, so I ended up making my own. I hope you like it.
+This program aims to represent a 2D Fractal Landscape made in Python, mesmerizing mountain landscapes, or at list a fraction of it. Developed using Pygame library, this program is inspired in [Graham's Projects website](https://grahamsprojects.blogspot.com/2014/08/creating-2d-fractal-landscape-generator.html). I didn't find the source code, so I ended up making my own. I hope you like it.
 .
 <p align="center">
   <img src="img/example4.png" alt="Fractal Mountains" width="50%">
